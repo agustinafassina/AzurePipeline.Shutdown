@@ -1,5 +1,5 @@
 # Automation pipeline:
-Schema reference for Azure Pipelines that shutdown instances.
+This repository contains an Azure Pipeline that stops an EC2 instance in AWS.
 __________________________________________________________________
 
 ## For the use el schema:
