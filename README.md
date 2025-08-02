@@ -1,5 +1,5 @@
 # Automation pipeline:
-This repository contains an Azure Pipeline that stops an EC2 instance in AWS.
+This repository includes an Azure Pipeline designed to safely shut down an EC2 instance in AWS. It automates the process of stopping the instance to help manage resources efficiently.
 __________________________________________________________________
 
 ## For the use el schema:
