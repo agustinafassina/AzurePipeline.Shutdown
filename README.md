@@ -1,8 +1,19 @@
-# Automation pipeline:
-This repository includes an Azure Pipeline designed to safely shut down an EC2 instance in AWS. It automates the process of stopping the instance to help manage resources efficiently.
+# Automation pipeline: Shut down an Ec2 instance
+This repository features an Azure Pipeline designed to automate the process of shut down an EC2 instance in AWS. Includes a command to shut down EC2. This configuration optimizes infrastructure management, reduces manual work, and ensures that instances are properly shut down.
+<br>
+For example, from Azure DevOps, we can configure pipelines to run on the days we need:
+- Create pipeline in Azure Devops
+- Setting pipeline with this repository and azure-pipelines.yml
+- Select Triggers and Scheduled
+- Scheduled detail:
+
+<div align="center">
+  <img height="300" width="70%" src="triggers.jpg"  />
+</div>
+
 __________________________________________________________________
 
-## For the use el schema:
+## For the use the schema:
 * Azure devOps account.
 * * Create new pipeline
 * * Add variables in the pipeline:
