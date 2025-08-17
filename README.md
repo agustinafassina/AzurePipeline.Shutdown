@@ -8,7 +8,7 @@ For example, from Azure DevOps, we can configure pipelines to run on the days we
 - Scheduled detail:
 
 <div align="center">
-  <img height="300" width="70%" src="triggers.jpg"  />
+  <img height="300" width="70%" src="triggers.png"  />
 </div>
 
 __________________________________________________________________
